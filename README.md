@@ -6,7 +6,7 @@ Chỉnh sửa tên & ngày tháng trực tiếp trên PDF chứng chỉ gốc, h
 
 1. Fork repo này
 2. Vào **Settings → Pages → Source: main branch / root**
-3. Truy cập `https://TÊN_BẠN.github.io/TÊN_REPO/`
+3. Truy cập `https://atnoob303.github.io/EditchungchiTKDHK24G/`
 
 ## 💻 Chạy local
 
